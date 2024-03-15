@@ -27,6 +27,4 @@ A programação é a melhor alquimia da mente humana. Transforma pensamentos em 
 
 
 
-![Snake animation](https://github.com/luizsilvaa/luizsilvaa/blob/output/github-contribution-grid-snake.svg)
-
 
